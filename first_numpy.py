@@ -14,6 +14,6 @@ print(f"zero dimention array : {zero_d_array}")
 one_d_array = np.array([1,2,3,34])
 print(f"one dimention array : {one_d_array}")
 
-#iterating numpy array
+#iterating numpy array using loop
 for x in one_d_array:
     print(x)
